@@ -1,0 +1,13 @@
+{
+    "name": "base64",
+    "version": "1.0.0",
+    "description": "Lightweight performance optimized base64 library by Vassilis Petroulias [DRDigit]",
+    "keywords": ["base64"],
+    "license": "Apache v2",
+    "homepage": "https://github.com/infowrap/base64",
+    "authors": [
+        {
+            "name": "Vassilis Petroulias"
+        }
+    ]
+}
